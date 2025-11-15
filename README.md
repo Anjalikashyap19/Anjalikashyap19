@@ -5,7 +5,7 @@
 
 ---
 
-## 👋 About Me  
+##  About Me  
 I am a passionate developer focused on creating clean, scalable, and user-centric applications.  
 My work combines modern frontend design, solid backend engineering, and Android development.  
 I enjoy building practical products, exploring new technologies, and designing smooth user experiences.
