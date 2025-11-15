@@ -1,7 +1,8 @@
 <!-- Header Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=800&color=F46BEA&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Anjali+Kashyap;Full+Stack+Developer;Android+Developer;UI%2FUX+Design+Enthusiast;Building+Modern+Digital+Experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=800&color=F46BEA&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Anjali+Kashyap;Full+Stack+Developer;Android+Developer;Tech+Explorer;Turning+Ideas+Into+Reality" />
 </p>
+
 
 ---
 
