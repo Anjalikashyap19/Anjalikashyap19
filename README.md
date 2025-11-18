@@ -30,12 +30,11 @@ I enjoy building practical products, exploring new technologies, and designing s
 
 ---
 
-## 🔥 Contribution Streak  
+## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anjalikashyap19&theme=blueberry&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Anjalikashyap19&theme=highcontrast&hide_border=true" />
 </p>
 
----
 
 ## 📅 This Year's Contribution Graph  
 <p align="center">
