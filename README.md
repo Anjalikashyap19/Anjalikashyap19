@@ -30,10 +30,6 @@ I enjoy building practical products, exploring new technologies, and designing s
 
 ---
 
-## 🔥 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=Anjalikashyap19&theme=dark&hide_border=false" />
-</p>
 
 
 
@@ -57,6 +53,12 @@ I enjoy building practical products, exploring new technologies, and designing s
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
+
+## 🔥 Contribution Streak
+<p align="center">
+  <img alt="Anjali's Streak" src="https://streak-stats.demolab.com?user=Anjalikashyap19&theme=blueberry&hide_border=true" />
+</p>
+
 
 
 
