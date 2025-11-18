@@ -32,8 +32,9 @@ I enjoy building practical products, exploring new technologies, and designing s
 
 ## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjalikashyap19&theme=blueberry&hide_border=true" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Anjalikashyap19&theme=blue-navy&hide_border=true" />
 </p>
+
 
 
 
