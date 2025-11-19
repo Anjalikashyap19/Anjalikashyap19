@@ -22,6 +22,11 @@ I enjoy building practical products, exploring new technologies, and designing s
 
 ---
 
+## 🔥 Contribution Streak
+<p align="center">
+  <img alt="Anjali's Streak" src="https://streak-stats.demolab.com?user=Anjalikashyap19&theme=blueberry&hide_border=true" />
+</p>
+
 ## 📊 GitHub Statistics  
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Anjalikashyap19&show_icons=true&theme=midnight-purple&hide_border=true" />
@@ -54,10 +59,7 @@ I enjoy building practical products, exploring new technologies, and designing s
   </a>
 </p>
 
-## 🔥 Contribution Streak
-<p align="center">
-  <img alt="Anjali's Streak" src="https://streak-stats.demolab.com?user=Anjalikashyap19&theme=blueberry&hide_border=true" />
-</p>
+
 
 
 
